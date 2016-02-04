@@ -20,7 +20,7 @@
 <nav role="navigation">
         <div> <ul>
         <li><a href="/index.php/" class="button">Home</a></li>
-        <li><a href="/stephanieogden.net/assignments.php" class="button">Assignments</a></li>
+        <li><a href="/php/assignments.php" class="button">Assignments</a></li>
         <li><a href="/" class="button">Teach/Present</a></li>
 
     </ul>  </div>
