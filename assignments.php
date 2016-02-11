@@ -29,5 +29,7 @@
 <main>
     <li><a href="/php/assignments/forms/index.php" class="button">HTML Form</a></li>
     <li><a href="/php/assignments/forms/phpform.php" class="button">PHP Form</a></li>
+    <li><a href="/php/assignments/projects/index.php" class="button">Project</a></li>
+    <li><a href="/php/groupProjects/groupProject05Beta.php" class="button">Group Scripture Database</a></li>
 </main>
     This page is under construction  

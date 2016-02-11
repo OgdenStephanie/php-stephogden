@@ -1,0 +1,89 @@
+/*header*/
+body{
+    background-color: gray;
+}
+
+header{
+    width:800px;
+    margin : auto;
+    border: 1px solid black;
+}
+header>img{
+    float: left;
+    margin: 15px 10px;
+}
+header>h1{
+    display: inline;
+    font-size: 60px;
+    padding: 0px 20px 20px 20px;
+}
+
+nav {
+    margin: 30px 0 0 120px;
+}
+nav>ul#navbar{
+    list-style-type: none
+}
+nav>ul#navbar>li{
+    display: inline;
+    font-size: 30px;
+    margin-left: 20px;
+    padding: 5px 5px;
+    border: 1px solid black;
+}
+
+nav>ul#navbar>li>a{
+    text-decoration: none;
+}
+nav>ul#navbar>li>a:visited{
+    color: inherit;
+}
+nav>ul#navbar>li>a:hover{
+    text-decoration: underline;
+}
+
+/* Custom */
+div.main {
+    width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+div.box{
+    width: 600px;
+    margin: auto;
+}
+
+div.margin-top-50{
+    margin-top: 50px;
+}
+
+/*form*/
+label {
+    float: left;
+    width: 10em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+input {
+    width: 15em;
+    margin-bottom: .5em;
+}
+input[type=submit]{
+    width: 15.3em;
+    margin-bottom: .5em;
+    background-color: #8fea7a;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+}
+td, th {
+    border: 1px dashed black;
+    padding: .2em .5em .2em .5em;
+    text-align: left;
+}
