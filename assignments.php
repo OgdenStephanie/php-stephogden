@@ -19,17 +19,17 @@
     <h2><strong>Assignments</strong></h2>
 <nav role="navigation">
         <div> <ul>
-        <li><a href="/index.php/" class="button">Home</a></li>
-        <li><a href="/php/assignments.php" class="button">Assignments</a></li>
+        <li><a href="index.php" class="button">Home</a></li>
+        <li><a href="assignments.php" class="button">Assignments</a></li>
         <li><a href="/" class="button">Teach/Present</a></li>
 
     </ul>  </div>
 
  </nav>
 <main>
-    <li><a href="/php/assignments/forms/index.php" class="button">HTML Form</a></li>
-    <li><a href="/php/assignments/forms/phpform.php" class="button">PHP Form</a></li>
-    <li><a href="/php/assignments/projects/index.php" class="button">Project</a></li>
-    <li><a href="/php/groupProjects/groupProject05Beta.php" class="button">Group Scripture Database</a></li>
+    <li><a href="assignments/htmlform.php" class="button">HTML Form</a></li>
+    <li><a href="assignments/phpform.php" class="button">PHP Form</a></li>
+    <li><a href="assignments/project/account/index.php" class="button">Project</a></li>
+    <li><a href="groupProjects/groupProject05Beta.php" class="button">Group Scripture Database</a></li>
 </main>
-    This page is under construction  
+    This page is under construction

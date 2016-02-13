@@ -19,8 +19,8 @@
     <h2><strong>About Me</strong></h2>
 <nav role="navigation">
         <div> <ul>
-        <li><a href="/index.php/" class="button">Home</a></li>
-        <li><a href="/php/assignments.php" class="button">Assignments</a></li>
+        <li><a href="index.php" class="button">Home</a></li>
+        <li><a href="assignments.php" class="button">Assignments</a></li>
         <li><a href="/" class="button">Teach/Present</a></li>
 
     </ul>  </div>
@@ -42,8 +42,8 @@
         <div>
         <ul>
 
-    <li><a href="/index.php">Site Plan></a></li>
-    <li><a href="/teach.php">Teaching Presentation></a></li>
+    <li><a href="index.php">Site Plan></a></li>
+    <li><a href="teach.php">Teaching Presentation></a></li>
 
         </ul>
             <p>This site is a work in progress.  Keep checking back.</p>       </div>

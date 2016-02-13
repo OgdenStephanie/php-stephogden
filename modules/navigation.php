@@ -1,8 +1,7 @@
 
 <div> <ul>
-        <li><a href="php/index.php/" class="button">Home</a></li>
-        <li><a href="php/assignments/assignments.php/" class="button">Assignments</a></li>
-        <li><a href="php/groupProjects/" class="button">Group Projects</a></li>
-        <li><a href="php/teach.php/" class="button">Teach/Present</a></li>
-
+  <li><a href="assignments/project/htmlform.php" class="button">HTML Form</a></li>
+  <li><a href="assignments/project/phpform.php" class="button">PHP Form</a></li>
+  <li><a href="assignments/project/index.php" class="button">Project</a></li>
+  <li><a href="groupProjects/groupProject05Beta.php" class="button">Group Scripture Database</a></li>
     </ul>  </div>
